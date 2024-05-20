@@ -1,0 +1,1 @@
+ALTER TABLE portfolio_item ALTER COLUMN active_amount TYPE DOUBLE PRECISION;

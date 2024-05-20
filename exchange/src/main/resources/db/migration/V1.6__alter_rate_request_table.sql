@@ -1,0 +1,1 @@
+ALTER TABLE rate_request ALTER COLUMN rate_date TYPE DATE;

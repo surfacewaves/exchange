@@ -1,0 +1,3 @@
+UPDATE dictionary SET code = 'RATE_REQUEST_TYPE' WHERE key IN('ON_DAY', 'LATEST');
+
+DELETE FROM dictionary WHERE code = 'RATE_REQUEST_STATUS' AND key = 'SENT';

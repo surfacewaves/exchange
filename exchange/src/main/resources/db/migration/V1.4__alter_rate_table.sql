@@ -1,0 +1,1 @@
+ALTER TABLE rate ALTER COLUMN rate_request_id SET NOT NULL;
